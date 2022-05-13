@@ -26,3 +26,6 @@ http://localhost:8080/react
 # renders only vue
 http://localhost:8080/vue
 ```
+
+## Blog reference
+[Micro-Frontend—Why and How?](https://www.syncfusion.com/blogs/post/micro-frontend-why-and-how.aspx)
